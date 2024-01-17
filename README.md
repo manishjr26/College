@@ -30,6 +30,12 @@ Compile and Run:
   javac Main.java
   java Main
 
+## Technologies Used
+
+- Java
+- JDBC
+- MySQL
+
 Contributor:
 
 Name: Manish JR
