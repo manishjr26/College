@@ -21,6 +21,15 @@ Instructions:
 
       The application dynamically displays the modified 'gitam' table within the 'College' database based on the chosen operation.
 
+Getting Started:
+
+Clone the Repository:
+  git clone https://github.com/your-username/repository-name.git
+  
+Compile and Run:
+  javac Main.java
+  java Main
+
 Contributor:
 
 Name: Manish JR
