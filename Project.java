@@ -14,7 +14,7 @@ public class Project
 		try
 		{
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			c=DriverManager.getConnection("jdbc:mysql://localhost:3306/college", "root", "tiger@123");
+			c=DriverManager.getConnection("jdbc:mysql://localhost:3306/college", "root", "root");
 			//s=c.createStatement();
 			//s.execute("insert into gitam values(1047,'Thaeer','thaeer@gmail.com'),(1044,'Tharun','tharun@gmail.com'),(1043,'Kishore','ksihore@gmail.com'),(1040,'Jayanth','jay@gmail.com'),(37,'Bhuvan','bhu@gmail.com')");	
 			
